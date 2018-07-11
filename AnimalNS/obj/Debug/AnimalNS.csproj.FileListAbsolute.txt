@@ -1,0 +1,7 @@
+D:\source\repos\AllInonecsahrp\AnimalNS\bin\Debug\AnimalNS.exe.config
+D:\source\repos\AllInonecsahrp\AnimalNS\bin\Debug\AnimalNS.exe
+D:\source\repos\AllInonecsahrp\AnimalNS\bin\Debug\AnimalNS.pdb
+D:\source\repos\AllInonecsahrp\AnimalNS\obj\Debug\AnimalNS.csproj.CoreCompileInputs.cache
+D:\source\repos\AllInonecsahrp\AnimalNS\obj\Debug\AnimalNS.exe
+D:\source\repos\AllInonecsahrp\AnimalNS\obj\Debug\AnimalNS.pdb
+D:\source\repos\AllInonecsahrp\AnimalNS\obj\Debug\AnimalNS.csprojResolveAssemblyReference.cache

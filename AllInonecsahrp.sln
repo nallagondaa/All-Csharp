@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AllInonecsahrp", "AllInonecsahrp\AllInonecsahrp.csproj", "{8BCB6AC9-F8EC-479C-BC33-9441448E9ACB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnimalNS", "AnimalNS\AnimalNS.csproj", "{6DF587D3-1C4D-45E2-B3B1-FF787D948AC8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8BCB6AC9-F8EC-479C-BC33-9441448E9ACB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BCB6AC9-F8EC-479C-BC33-9441448E9ACB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BCB6AC9-F8EC-479C-BC33-9441448E9ACB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BCB6AC9-F8EC-479C-BC33-9441448E9ACB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DF587D3-1C4D-45E2-B3B1-FF787D948AC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DF587D3-1C4D-45E2-B3B1-FF787D948AC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DF587D3-1C4D-45E2-B3B1-FF787D948AC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DF587D3-1C4D-45E2-B3B1-FF787D948AC8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47DAB0DA-B3EF-4AC3-8E4C-1F4CE9FFBF68}
+	EndGlobalSection
+EndGlobal

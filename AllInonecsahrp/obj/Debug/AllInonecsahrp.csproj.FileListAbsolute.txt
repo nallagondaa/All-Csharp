@@ -1,0 +1,11 @@
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\obj\Debug\AllInonecsahrp.csprojResolveAssemblyReference.cache
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\obj\Debug\AllInonecsahrp.csproj.CoreCompileInputs.cache
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\bin\Debug\AllInonecsahrp.exe.config
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\bin\Debug\AllInonecsahrp.exe
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\bin\Debug\AllInonecsahrp.pdb
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\bin\Debug\AnimalNS.exe
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\bin\Debug\AnimalNS.pdb
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\bin\Debug\AnimalNS.exe.config
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\obj\Debug\AllInonecsahrp.csproj.CopyComplete
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\obj\Debug\AllInonecsahrp.exe
+D:\source\repos\AllInonecsahrp\AllInonecsahrp\obj\Debug\AllInonecsahrp.pdb
